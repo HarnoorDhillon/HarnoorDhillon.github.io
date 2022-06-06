@@ -1,3 +1,9 @@
+.WebContainer{
+    width:100%;
+    min-width:1000px;
+    height:auto;
+}
+
 body { 
     background-image: url('../images/img2.png');
     background-repeat: no-repeat;
